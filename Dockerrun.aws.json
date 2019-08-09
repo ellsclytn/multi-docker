@@ -1,6 +1,6 @@
 {
-  "awsebdockerrunversion": 2,
-  "containerdefinitions": [
+  "AWSEBDockerrunVersion": 2,
+  "containerDefinitions": [
     {
       "name": "client",
       "image": "ellsclytn/multi-client",
