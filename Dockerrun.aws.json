@@ -27,10 +27,10 @@
       "image": "ellsclytn/multi-nginx",
       "essential": true,
       "memory": 128,
-      "portmappings": [
+      "portMappings": [
         {
-          "hostport": 80,
-          "containerport": 80
+          "hostPort": 80,
+          "containerPort": 80
         }
       ],
       "links": ["client", "server"]
